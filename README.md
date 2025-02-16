@@ -11,7 +11,7 @@ Rather than let the project go to waste, the codebase has been made open-source 
 - **Rojo (optional but recommended)**: For local development and version control integration.
 
 ## License
-This project is licensed under [MIT License]. Be sure to read and understand the terms before using or contributing.
+This project is licensed under the MIT License. Be sure to read and understand the terms before using.
 
 ## Contact & Community
 If you have any questions or need assistance, feel free to open an issue or reach out via Discord (@gitrog).
