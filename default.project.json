@@ -1,0 +1,61 @@
+{
+	"name": "Zakhid",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"Parts": {
+				"$className": "Folder",
+				"GameVersion": {
+					"$path": "version.txt"
+				}
+			},
+			"ReplicatedScripts": {
+				"$path": "src/shared",
+				"GameVersion": {
+					"$path": "version.txt"
+				}
+			},
+			"UserInterface": {
+				"$className": "Folder",
+				"GameVersion": {
+					"$path": "version.txt"
+				}
+			}
+		},
+
+		"ServerScriptService": {
+			"ServerScripts": {
+				"$path": "src/server",
+				"GameVersion": {
+					"$path": "version.txt"
+				}
+			}
+		},
+
+		"ServerStorage": {
+			"Parts": {
+				"$className": "Folder",
+				"GameVersion": {
+					"$path": "version.txt"
+				}
+			},
+			"UserInterface": {
+				"$className": "Folder",
+				"GameVersion": {
+					"$path": "version.txt"
+				}
+			}
+		},
+
+		"StarterPlayer": {
+			"StarterPlayerScripts": {
+				"ClientScripts": {
+					"$path": "src/client",
+					"GameVersion": {
+						"$path": "version.txt"
+					}
+				}
+			}
+		}
+	}
+}

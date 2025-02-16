@@ -1,0 +1,13 @@
+# Roblox files
+*.rbxl
+*.rbxlx
+*.obj
+*.rbxlx.lock
+*.rbxl.lock
+
+# Keys and tokens
+/src/web/apikeys.json
+/src/web/botdata.json
+/src/web/licenseapplications.json
+/src/web/namerequests.json
+/src/web/ticketrequests.json
