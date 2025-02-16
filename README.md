@@ -5,11 +5,6 @@
 
 Rather than let the project go to waste, the codebase has been made open-source to allow others to contribute, expand, and carry on its legacy.
 
-## Getting Started
-### Prerequisites
-- **Roblox Studio**: Required for development.
-- **Rojo (optional but recommended)**: For local development and version control integration.
-
 ## License
 This project is licensed under the MIT License. Be sure to read and understand the terms before using.
 
